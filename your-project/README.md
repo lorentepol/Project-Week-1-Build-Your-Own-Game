@@ -58,7 +58,7 @@ There is the main code which all all the main functions in an ordered manner.
 ## Links
 
 [Repository](https://github.com/lorentepol/Project-Week-1-Build-Your-Own-Game/)  
-[Slides](https://github.com/lorentepol/Project-Week-1-Build-Your-Own-Game/tree/master/your-project/Blackjack_presentation.pptx)  
+[Slides](https://drive.google.com/file/d/1VjmsyLo6ml1gBoksZpvDp2TwE8OdaTYd/view?usp=sharing)  
 [Trello](https://trello.com/b/wwtTpfGz/project-1-blackjack)
 
 [Additional: Game Rules and Strategy for Blackjack](https://bicyclecards.com/how-to-play/blackjack/)  
